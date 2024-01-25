@@ -1,0 +1,6 @@
+@Setupexample_HostAddress = http://localhost:5289
+
+GET {{Setupexample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
